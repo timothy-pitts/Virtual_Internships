@@ -18,3 +18,5 @@ For context, the partner company of BCGX, **NewCo**, wrapped up a one-week, mult
 🧠 Before I dive into analyzing data, I’m thinking through a few key points:  
 - Which *message tone* might connect better with first-time customers?  
 - Which *channels* are most likely to reach brand-new audiences?
+
+Using the [Campaign Materials PDF](https://github.com/timothy-pitts/Virtual_Internships/blob/main/BCGX%20Job%20Simulation/Task%201%3A%20Campaign%20Performance%20Analysis/Campaign%20Materials.pdf), I began comparing the two marketing strategies.
