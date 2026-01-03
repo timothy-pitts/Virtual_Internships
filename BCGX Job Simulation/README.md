@@ -1,6 +1,6 @@
 ## BCGX Retail Campaign Simulation 🧠📊
 
-As part of a **BCGX data science job simulation** 🧠, I stepped into the role of a data scientist partnering with consultants 🤝 and business leaders 💼 to tackle a complex retail marketing challenge. The experience focused on combining **technical skills** 💻, **business strategy** 🎯, and **clear data storytelling** 🗣️ to support smarter client decisions.  
+As part of the **BCGX data science job simulation** 🧠, I stepped into the role of a data scientist partnering with consultants 🤝 and business leaders 💼 to tackle a complex retail marketing challenge. The experience focused on combining **technical skills** 💻, **business strategy** 🎯, and **clear data storytelling** 🗣️ to support smarter client decisions.  
 
 The simulation centered on a big-box retail client, **NewCo** 🏬, which had just completed a **multi-channel marketing campaign** 📊. The campaign tested different **message types** (sales-focused 🏷️ vs. brand-focused 🌟) across several **channels** such as email 📧 and Instagram 📱. 
 
