@@ -1,4 +1,5 @@
-## 📊 Results From the Data [TimBCGX-VirtualInternship]
+## 📊 Results From the Data [TimBCGX-VirtualInternship](https://github.com/user-attachments/files/24418611/TimBCGX-VirtualInternship-Updated.xlsx)
+
 
 🧠 The following questions I began asking when digging into the data:  
 - 🔍 What changes do we see when isolating **new customer performance**?  
