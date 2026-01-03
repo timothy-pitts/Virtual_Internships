@@ -4,4 +4,4 @@ Job simulations I have accomplished using a variety of data analytics skills.
 | Project Title | Description |
 | :-----------: |----------- |
 | [BCGX Data for Decision Makers Job Simulation on Forage](https://github.com/timothy-pitts/Virtual_Internships/tree/main/BCGX%20Job%20Simulation) | In this simulation, I joined a cross-functional project team working to analyze and improve a recent digital ad campaign. My goal was to review campaign performance data and identify insights to guide smarter business decisions.|
-| Deloitte Australia Data Analytics Job Simulation on Forage | In this simulation, I built a dashboard to explore the client's telemetry data to visualize the data. My goal was to Analyze the client's data & create a dashboard using Tableau. |
+| [Deloitte Australia Data Analytics Job Simulation on Forage](https://github.com/timothy-pitts/Virtual_Internships/tree/main/Deloitte%20Australia%20Data%20Analytics%20Job%20Simulation) | In this simulation, I built a dashboard to explore the client's telemetry data to visualize the data. My goal was to Analyze the client's data & create a dashboard using Tableau. |
